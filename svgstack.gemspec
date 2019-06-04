@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'svgstack'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.summary = 'A 1st attempt at creating a stack using SVG. Under development.'
   s.authors = ['James Robertson']
   s.files = Dir['lib/svgstack.rb']
