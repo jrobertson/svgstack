@@ -1,7 +1,7 @@
-# Introducing the stacksvg gem
+# Introducing the svgstack gem
 
 
-    require 'stacksvg'
+    require 'svgstack'
 
     SvgStack.new(%w(fun victor biscuits)).save 'sample1'
 
